@@ -2,7 +2,7 @@
     "$schema": "UX",
     "$definition": {
         "style_name": "GrGray",
-        "style_type": "Alpha Five",
+        "style_type": "Alpha Five2",
         "resolveAbstractClassNames": true,
         "builderVersionNumber": 1,
         "overrideStyleName": "Default",
@@ -392,12 +392,12 @@
             },
             {
                 "controlType": "layout_directive_freeform",
-                "display": "{B=White,Light Blue}{I:'vertline'}{I:'vertline'}{Data=9135c32d-5139-49cc-9c1e-dc2c21634168}{I:'$$control.staticHTML'} [freeform: FREEFORM_1] ¶",
+                "display": "{B=White,Light Blue}{I:'vertline'}{I:'vertline'}{Data=9135c32d-5139-49cc-9c1e-dc2c21634168}{I:'$$control.staticHTML'} [freeform: FREEFORM_1] Â¶",
                 "displayODFlat": "{Data=9135c32d-5139-49cc-9c1e-dc2c21634168}{I:'$$control.staticHTML'}[Free-form Container]",
                 "idInternal": "9135c32d-5139-49cc-9c1e-dc2c21634168",
                 "parentContainer": 2,
                 "displayOD": "{B=White,Light Blue}{I:'vertLine'}{I:'vertLine'}{Data=9376eea3_6a8b_448d_8329_7c885f263a58}{I:'$$control.staticHTML'} [Free-form Container]",
-                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{I:'vertLine'}{Data=9376eea3_6a8b_448d_8329_7c885f263a58}{I:'$$control.staticHTML'} [Free-form Container] ¶",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{I:'vertLine'}{Data=9376eea3_6a8b_448d_8329_7c885f263a58}{I:'$$control.staticHTML'} [Free-form Container] Â¶",
                 "crc": "4294942819",
                 "v": {
                     "FreeformHTML": "<b>Notes for Dialog</b>\n<ul>\n\t<li>This is a very simple Dialog for capturing customer information.</li>\n\t<li>The Dialog has not been bound to a table.</li>\n\t<li>You can bind the Dialog to a table by going to the Data Binding section.</li>\n\t<li>You can either bind the Dialog to an existing table (SQL or .dbf), or create a new table to match the controls in the Dialog.</li>\n\t<li>You will need to define an event handler for the 'AfterDialogValidate' event, which gets called when you press the 'Submit' button.</li>\n</ul>",
@@ -430,7 +430,7 @@
                         "displayText": "[freeform: FREEFORM_1]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{B=White,Light Blue}{I:'vertline'}{I:'vertline'}{Data=9135c32d-5139-49cc-9c1e-dc2c21634168}{I:'$$control.staticHTML'} [freeform: FREEFORM_1] ¶"
+                        "display": "{B=White,Light Blue}{I:'vertline'}{I:'vertline'}{Data=9135c32d-5139-49cc-9c1e-dc2c21634168}{I:'$$control.staticHTML'} [freeform: FREEFORM_1] Â¶"
                     }
                 },
                 "precalc": {
@@ -452,12 +452,12 @@
             },
             {
                 "controlType": "layout_directive_FrameEnd",
-                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{I:'vertline'}{Data=d386adea-0624-4a82-84bf-3a4ac6b860ce}{I:'vertLineCap'} [Frame End: FRAME_NOTES] ¶",
+                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{I:'vertline'}{Data=d386adea-0624-4a82-84bf-3a4ac6b860ce}{I:'vertLineCap'} [Frame End: FRAME_NOTES] Â¶",
                 "displayODFlat": "{Data=d386adea-0624-4a82-84bf-3a4ac6b860ce}{I:'$$control.group'}[Frame End]",
                 "idInternal": "d386adea-0624-4a82-84bf-3a4ac6b860ce",
                 "parentContainer": 1,
                 "displayOD": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{I:'vertLine'}{Data=68e3bae5_5428_441b_b1a3_625f4491ee5c}{I:'vertLineCap'} [Frame End]",
-                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{I:'vertLine'}{Data=68e3bae5_5428_441b_b1a3_625f4491ee5c}{I:'vertLineCap'} [Frame End - FRAME_NOTES] ¶",
+                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{I:'vertLine'}{Data=68e3bae5_5428_441b_b1a3_625f4491ee5c}{I:'vertLineCap'} [Frame End - FRAME_NOTES] Â¶",
                 "crc": "4294934021",
                 "v": {
                     "Frame": {
@@ -487,7 +487,7 @@
                         "displayText": "[Frame End: FRAME_NOTES]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{I:'vertline'}{Data=d386adea-0624-4a82-84bf-3a4ac6b860ce}{I:'vertLineCap'} [Frame End: FRAME_NOTES] ¶"
+                        "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{I:'vertline'}{Data=d386adea-0624-4a82-84bf-3a4ac6b860ce}{I:'vertLineCap'} [Frame End: FRAME_NOTES] Â¶"
                     }
                 },
                 "precalc": {
@@ -507,11 +507,11 @@
             },
             {
                 "controlType": "layout_directive_ContainerEnd",
-                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=4afa57c4-c1e8-4078-b292-8394d4a9da60}{I:'vertLineCap'} [Container End: CONTAINER_NOTES] ¶",
+                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=4afa57c4-c1e8-4078-b292-8394d4a9da60}{I:'vertLineCap'} [Container End: CONTAINER_NOTES] Â¶",
                 "displayODFlat": "{Data=4afa57c4-c1e8-4078-b292-8394d4a9da60}{I:'$$format.border.style.dash'}[Container End]",
                 "idInternal": "4afa57c4-c1e8-4078-b292-8394d4a9da60",
                 "displayOD": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=0126e583_9eb5_4a8c_8051_3b4a4615a72e}{I:'vertLineCap'} [Container End]",
-                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=4afa57c4-c1e8-4078-b292-8394d4a9da60}{I:'vertLineCap'} [Container End: CONTAINER_NOTES] ¶",
+                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=4afa57c4-c1e8-4078-b292-8394d4a9da60}{I:'vertLineCap'} [Container End: CONTAINER_NOTES] Â¶",
                 "crc": "4294933871",
                 "v": {
                     "container": {
@@ -541,7 +541,7 @@
                         "displayText": "[Container End: CONTAINER_NOTES]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=4afa57c4-c1e8-4078-b292-8394d4a9da60}{I:'vertLineCap'} [Container End: CONTAINER_NOTES] ¶"
+                        "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=4afa57c4-c1e8-4078-b292-8394d4a9da60}{I:'vertLineCap'} [Container End: CONTAINER_NOTES] Â¶"
                     }
                 },
                 "precalc": {
@@ -561,11 +561,11 @@
             },
             {
                 "controlType": "layout_directive_hyperlink",
-                "display": "{B=White,Light Blue}{Data=1f93fc8a-6585-4611-b3a1-198d094e0ace}{I:'$$generic.link'} [Hyperlink: Show/hide notes for this Dialog] ¶",
+                "display": "{B=White,Light Blue}{Data=1f93fc8a-6585-4611-b3a1-198d094e0ace}{I:'$$generic.link'} [Hyperlink: Show/hide notes for this Dialog] Â¶",
                 "displayODFlat": "{Data=1f93fc8a-6585-4611-b3a1-198d094e0ace}{I:'$$generic.link'}[Hyperlink]",
                 "idInternal": "1f93fc8a-6585-4611-b3a1-198d094e0ace",
                 "displayOD": "{B=White,Light Blue}{Data=e9c7ee30_14f6_4865_b843_51d72eb704c9}{I:'$$generic.link'} [Hyperlink]",
-                "displayODtree": "{B=White,Light Blue}{Data=e9c7ee30_14f6_4865_b843_51d72eb704c9}{I:'$$generic.link'} [Hyperlink: Show/hide notes for ] ¶",
+                "displayODtree": "{B=White,Light Blue}{Data=e9c7ee30_14f6_4865_b843_51d72eb704c9}{I:'$$generic.link'} [Hyperlink: Show/hide notes for ] Â¶",
                 "crc": "4294927075",
                 "v": {
                     "hyperlinkText": "Show/hide notes for this Dialog",
@@ -606,7 +606,7 @@
                         "displayText": "[Hyperlink: Show/hide notes for this Dialog]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{B=White,Light Blue}{Data=1f93fc8a-6585-4611-b3a1-198d094e0ace}{I:'$$generic.link'} [Hyperlink: Show/hide notes for this Dialog] ¶"
+                        "display": "{B=White,Light Blue}{Data=1f93fc8a-6585-4611-b3a1-198d094e0ace}{I:'$$generic.link'} [Hyperlink: Show/hide notes for this Dialog] Â¶"
                     }
                 },
                 "precalc": {
@@ -628,11 +628,11 @@
             },
             {
                 "controlType": "layout_directive_statictext",
-                "display": "{B=White,Light Blue}{Data=6ec462ba-8f81-4878-af04-4dfe941b05b8}{I:'$$format.text'} [Static Text:Customers] ¶",
+                "display": "{B=White,Light Blue}{Data=6ec462ba-8f81-4878-af04-4dfe941b05b8}{I:'$$format.text'} [Static Text:Customers] Â¶",
                 "displayODFlat": "{Data=6ec462ba-8f81-4878-af04-4dfe941b05b8}{I:'$$format.text'}[Static Text]",
                 "idInternal": "6ec462ba-8f81-4878-af04-4dfe941b05b8",
                 "displayOD": "{B=White,Light Blue}{Data=e7c607d8-af0c-4d80-bec9-468803a272e9}{I:'$$format.text'} [Static Text]",
-                "displayODtree": "{B=White,Light Blue}{Data=e7c607d8-af0c-4d80-bec9-468803a272e9}{I:'$$format.text'} [Static Text: Customers] ¶",
+                "displayODtree": "{B=White,Light Blue}{Data=e7c607d8-af0c-4d80-bec9-468803a272e9}{I:'$$format.text'} [Static Text: Customers] Â¶",
                 "crc": "4294961489",
                 "v": {
                     "StaticText": "Customers",
@@ -669,7 +669,7 @@
                         "displayText": "[Static Text:Customers]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{B=White,Light Blue}{Data=6ec462ba-8f81-4878-af04-4dfe941b05b8}{I:'$$format.text'} [Static Text:Customers] ¶"
+                        "display": "{B=White,Light Blue}{Data=6ec462ba-8f81-4878-af04-4dfe941b05b8}{I:'$$format.text'} [Static Text:Customers] Â¶"
                     }
                 },
                 "precalc": {
@@ -751,12 +751,12 @@
             },
             {
                 "controlType": "dialog_formcontrol",
-                "display": "{B=White,Light Blue}{I:'vertline'}{Data=26dc9f38-bec9-49b2-b038-fae2c3dcae8b}{I:'$$control.edit'} [CustomerId] ¶",
+                "display": "{B=White,Light Blue}{I:'vertline'}{Data=26dc9f38-bec9-49b2-b038-fae2c3dcae8b}{I:'$$control.edit'} [CustomerId] Â¶",
                 "displayODFlat": "{Data=26dc9f38-bec9-49b2-b038-fae2c3dcae8b}{I:'$$control.edit'}[CustomerId]",
                 "idInternal": "26dc9f38-bec9-49b2-b038-fae2c3dcae8b",
                 "parentContainer": 8,
                 "displayOD": "{B=White,Light Blue}{I:'vertLine'}{Data=d225c093-5758-4b70-af69-7714dbed5614}{I:'$$control.edit'} [CustomerId]",
-                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=d225c093-5758-4b70-af69-7714dbed5614}{I:'$$control.edit'} [CustomerId] ¶",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=d225c093-5758-4b70-af69-7714dbed5614}{I:'$$control.edit'} [CustomerId] Â¶",
                 "crc": "4294941183",
                 "v": {
                     "controlType": "Textbox",
@@ -862,7 +862,7 @@
                         "displayText": "[CustomerId]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=26dc9f38-bec9-49b2-b038-fae2c3dcae8b}{I:'$$control.edit'} [CustomerId] ¶"
+                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=26dc9f38-bec9-49b2-b038-fae2c3dcae8b}{I:'$$control.edit'} [CustomerId] Â¶"
                     }
                 },
                 "precalc": {
@@ -1005,12 +1005,12 @@
             },
             {
                 "controlType": "dialog_formcontrol",
-                "display": "{B=White,Light Blue}{I:'vertline'}{Data=ce86e32b-cdb6-4170-9546-b006c68fb5cc}{I:'$$control.edit'} [Lastname] ¶",
+                "display": "{B=White,Light Blue}{I:'vertline'}{Data=ce86e32b-cdb6-4170-9546-b006c68fb5cc}{I:'$$control.edit'} [Lastname] Â¶",
                 "displayODFlat": "{Data=ce86e32b-cdb6-4170-9546-b006c68fb5cc}{I:'$$control.edit'}[Lastname]",
                 "idInternal": "ce86e32b-cdb6-4170-9546-b006c68fb5cc",
                 "parentContainer": 8,
                 "displayOD": "{B=White,Light Blue}{I:'vertLine'}{Data=03318ad1-5a73-4226-8e7a-db07ca6f83a8}{I:'$$control.edit'} [Lastname]",
-                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=03318ad1-5a73-4226-8e7a-db07ca6f83a8}{I:'$$control.edit'} [Lastname] ¶",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=03318ad1-5a73-4226-8e7a-db07ca6f83a8}{I:'$$control.edit'} [Lastname] Â¶",
                 "crc": "4294904748",
                 "v": {
                     "controlType": "Textbox",
@@ -1116,7 +1116,7 @@
                         "displayText": "[Lastname]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=ce86e32b-cdb6-4170-9546-b006c68fb5cc}{I:'$$control.edit'} [Lastname] ¶"
+                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=ce86e32b-cdb6-4170-9546-b006c68fb5cc}{I:'$$control.edit'} [Lastname] Â¶"
                     }
                 },
                 "precalc": {
@@ -1132,12 +1132,12 @@
             },
             {
                 "controlType": "dialog_formcontrol",
-                "display": "{B=White,Light Blue}{I:'vertline'}{Data=34d53c95-c45e-4503-bc4c-b77245e48b92}{I:'$$control.edit'} [Company] ¶",
+                "display": "{B=White,Light Blue}{I:'vertline'}{Data=34d53c95-c45e-4503-bc4c-b77245e48b92}{I:'$$control.edit'} [Company] Â¶",
                 "displayODFlat": "{Data=34d53c95-c45e-4503-bc4c-b77245e48b92}{I:'$$control.edit'}[Company]",
                 "idInternal": "34d53c95-c45e-4503-bc4c-b77245e48b92",
                 "parentContainer": 8,
                 "displayOD": "{B=White,Light Blue}{I:'vertLine'}{Data=c19f90db-5f62-4f08-a042-52f1cbdd7f70}{I:'$$control.edit'} [Company]",
-                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=c19f90db-5f62-4f08-a042-52f1cbdd7f70}{I:'$$control.edit'} [Company] ¶",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=c19f90db-5f62-4f08-a042-52f1cbdd7f70}{I:'$$control.edit'} [Company] Â¶",
                 "crc": "4294941983",
                 "v": {
                     "controlType": "Textbox",
@@ -1244,7 +1244,7 @@
                         "displayText": "[Company]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=34d53c95-c45e-4503-bc4c-b77245e48b92}{I:'$$control.edit'} [Company] ¶"
+                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=34d53c95-c45e-4503-bc4c-b77245e48b92}{I:'$$control.edit'} [Company] Â¶"
                     }
                 },
                 "precalc": {
@@ -1260,12 +1260,12 @@
             },
             {
                 "controlType": "dialog_formcontrol",
-                "display": "{B=White,Light Blue}{I:'vertline'}{Data=22280247-a7d1-4d7c-9ba5-680efa120a71}{I:'$$control.edit'} [Address] ¶",
+                "display": "{B=White,Light Blue}{I:'vertline'}{Data=22280247-a7d1-4d7c-9ba5-680efa120a71}{I:'$$control.edit'} [Address] Â¶",
                 "displayODFlat": "{Data=22280247-a7d1-4d7c-9ba5-680efa120a71}{I:'$$control.edit'}[Address]",
                 "idInternal": "22280247-a7d1-4d7c-9ba5-680efa120a71",
                 "parentContainer": 8,
                 "displayOD": "{B=White,Light Blue}{I:'vertLine'}{Data=6f99912b-e138-4ed6-a62a-977fdf6f7478}{I:'$$control.edit'} [Address]",
-                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=6f99912b-e138-4ed6-a62a-977fdf6f7478}{I:'$$control.edit'} [Address] ¶",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=6f99912b-e138-4ed6-a62a-977fdf6f7478}{I:'$$control.edit'} [Address] Â¶",
                 "crc": "4294943112",
                 "v": {
                     "controlType": "Textbox",
@@ -1372,7 +1372,7 @@
                         "displayText": "[Address]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=22280247-a7d1-4d7c-9ba5-680efa120a71}{I:'$$control.edit'} [Address] ¶"
+                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=22280247-a7d1-4d7c-9ba5-680efa120a71}{I:'$$control.edit'} [Address] Â¶"
                     }
                 },
                 "precalc": {
@@ -1644,12 +1644,12 @@
             },
             {
                 "controlType": "dialog_formcontrol",
-                "display": "{B=White,Light Blue}{I:'vertline'}{Data=fe4317db-3698-4fae-9d5e-1f6df21921b8}{I:'$$control.edit'} [PostalCode] ¶",
+                "display": "{B=White,Light Blue}{I:'vertline'}{Data=fe4317db-3698-4fae-9d5e-1f6df21921b8}{I:'$$control.edit'} [PostalCode] Â¶",
                 "displayODFlat": "{Data=fe4317db-3698-4fae-9d5e-1f6df21921b8}{I:'$$control.edit'}[PostalCode]",
                 "idInternal": "fe4317db-3698-4fae-9d5e-1f6df21921b8",
                 "parentContainer": 8,
                 "displayOD": "{B=White,Light Blue}{I:'vertLine'}{Data=9911ba3f-4d1e-4a35-b4a8-1961eb65a442}{I:'$$control.edit'} [PostalCode]",
-                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=9911ba3f-4d1e-4a35-b4a8-1961eb65a442}{I:'$$control.edit'} [PostalCode] ¶",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=9911ba3f-4d1e-4a35-b4a8-1961eb65a442}{I:'$$control.edit'} [PostalCode] Â¶",
                 "crc": "4294922870",
                 "v": {
                     "controlType": "Textbox",
@@ -1755,7 +1755,7 @@
                         "displayText": "[PostalCode]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=fe4317db-3698-4fae-9d5e-1f6df21921b8}{I:'$$control.edit'} [PostalCode] ¶"
+                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=fe4317db-3698-4fae-9d5e-1f6df21921b8}{I:'$$control.edit'} [PostalCode] Â¶"
                     }
                 },
                 "precalc": {
@@ -1771,12 +1771,12 @@
             },
             {
                 "controlType": "dialog_formcontrol",
-                "display": "{B=White,Light Blue}{I:'vertline'}{Data=907d2bca-63b5-4910-93fb-ddcc9012529c}{I:'$$control.edit'} [Country] ¶",
+                "display": "{B=White,Light Blue}{I:'vertline'}{Data=907d2bca-63b5-4910-93fb-ddcc9012529c}{I:'$$control.edit'} [Country] Â¶",
                 "displayODFlat": "{Data=907d2bca-63b5-4910-93fb-ddcc9012529c}{I:'$$control.edit'}[Country]",
                 "idInternal": "907d2bca-63b5-4910-93fb-ddcc9012529c",
                 "parentContainer": 8,
                 "displayOD": "{B=White,Light Blue}{I:'vertLine'}{Data=38a0b6fd-49cd-464f-a4ea-ed59943db270}{I:'$$control.edit'} [Country]",
-                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=38a0b6fd-49cd-464f-a4ea-ed59943db270}{I:'$$control.edit'} [Country] ¶",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=38a0b6fd-49cd-464f-a4ea-ed59943db270}{I:'$$control.edit'} [Country] Â¶",
                 "crc": "4294945154",
                 "v": {
                     "controlType": "Textbox",
@@ -1883,7 +1883,7 @@
                         "displayText": "[Country]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=907d2bca-63b5-4910-93fb-ddcc9012529c}{I:'$$control.edit'} [Country] ¶"
+                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=907d2bca-63b5-4910-93fb-ddcc9012529c}{I:'$$control.edit'} [Country] Â¶"
                     }
                 },
                 "precalc": {
@@ -2002,12 +2002,12 @@
             },
             {
                 "controlType": "layout_directive_button",
-                "display": "{B=White,Light Blue}{I:'vertline'}{Data=b403b839-24e7-42ec-b3a4-8cebcf924bf3}{I:'$$control.button'} [Button: Reset] ¶",
+                "display": "{B=White,Light Blue}{I:'vertline'}{Data=b403b839-24e7-42ec-b3a4-8cebcf924bf3}{I:'$$control.button'} [Button: Reset] Â¶",
                 "displayODFlat": "{Data=b403b839-24e7-42ec-b3a4-8cebcf924bf3}{I:'$$control.button'}[Button]",
                 "idInternal": "b403b839-24e7-42ec-b3a4-8cebcf924bf3",
                 "parentContainer": 8,
                 "displayOD": "{B=White,Light Blue}{I:'vertLine'}{Data=ee7b34c9_c448_4c88_b5e8_1eb6bc3af7ed}{I:'$$control.button'} [Button]",
-                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=ee7b34c9_c448_4c88_b5e8_1eb6bc3af7ed}{I:'$$control.button'} [Button: Reset] ¶",
+                "displayODtree": "{B=White,Light Blue}{I:'vertLine'}{Data=ee7b34c9_c448_4c88_b5e8_1eb6bc3af7ed}{I:'$$control.button'} [Button: Reset] Â¶",
                 "crc": "4294949382",
                 "v": {
                     "buttonText": "Reset",
@@ -2083,7 +2083,7 @@
                         "displayText": "[Button: Reset]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=b403b839-24e7-42ec-b3a4-8cebcf924bf3}{I:'$$control.button'} [Button: Reset] ¶"
+                        "display": "{B=White,Light Blue}{I:'vertline'}{Data=b403b839-24e7-42ec-b3a4-8cebcf924bf3}{I:'$$control.button'} [Button: Reset] Â¶"
                     }
                 },
                 "precalc": {
@@ -2105,11 +2105,11 @@
             },
             {
                 "controlType": "layout_directive_FrameEnd",
-                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=0acb1475-4641-4f6e-b3c6-ad17c64e78e5}{I:'vertLineCap'} [Frame End: FRAME_2] ¶",
+                "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=0acb1475-4641-4f6e-b3c6-ad17c64e78e5}{I:'vertLineCap'} [Frame End: FRAME_2] Â¶",
                 "displayODFlat": "{Data=0acb1475-4641-4f6e-b3c6-ad17c64e78e5}{I:'$$control.group'}[Frame End]",
                 "idInternal": "0acb1475-4641-4f6e-b3c6-ad17c64e78e5",
                 "displayOD": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=2bb9debb-7ae4-422a-af13-ff058f8f339c}{I:'vertLineCap'} [Frame End]",
-                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=2bb9debb-7ae4-422a-af13-ff058f8f339c}{I:'vertLineCap'} [Frame End - FRAME_2] ¶",
+                "displayODtree": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=2bb9debb-7ae4-422a-af13-ff058f8f339c}{I:'vertLineCap'} [Frame End - FRAME_2] Â¶",
                 "crc": "4294907633",
                 "v": {
                     "Frame": {
@@ -2139,7 +2139,7 @@
                         "displayText": "[Frame End: FRAME_2]",
                         "parentPanelCardId": "",
                         "break": true,
-                        "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=0acb1475-4641-4f6e-b3c6-ad17c64e78e5}{I:'vertLineCap'} [Frame End: FRAME_2] ¶"
+                        "display": "{C=#0+0+127,White}{B=White,Light Blue}{F=+B}{Data=0acb1475-4641-4f6e-b3c6-ad17c64e78e5}{I:'vertLineCap'} [Frame End: FRAME_2] Â¶"
                     }
                 },
                 "precalc": {
